@@ -6,3 +6,5 @@ print("Selenium X Create and commit to XBranch")
 print("Selenium X Create and commit to XBranch 2")
 print("Selenium X Create and commit to XBranch 4")
 print("Selenium X Create and commit to XBranch 5")
+print("Selenium X Create and commit to XBranch 6")
+
